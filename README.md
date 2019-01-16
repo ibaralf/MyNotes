@@ -1,2 +1,2 @@
 # MyNotes
-Just to keep notes
+Notes saved in the WIKI section https://github.com/ibaralf/MyNotes/wiki
